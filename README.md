@@ -14,8 +14,9 @@ Der Inhalt hier steht, soweit nicht explizit anders erwähnt, unter der [Creativ
 
 ## VORBEREITEN
 
-* Auf GitHub registrieren
+* Auf GitHub [registrieren](https://github.com/join)
 * Laptop mit Netzteil mitnehmen!
+* 10min vor Workshop-Beginn anwesend sein. Wir beginnen pünktlich.
 
 ## WORKSHOP
 

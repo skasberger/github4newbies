@@ -14,21 +14,21 @@ Der Inhalt hier steht, soweit nicht explizit anders erwähnt, unter der [Creativ
 
 ## VORBEREITEN
 
-* Auf GitHub [registrieren](https://github.com/join)
+* Auf GitHub [registrieren](https://github.com/join).
 * Laptop mit Netzteil mitnehmen!
 * 10min vor Workshop-Beginn anwesend sein. Wir beginnen pünktlich.
 
 ## WORKSHOP
 
-| Zeit     | Inhalt       |
-|---------------|--------------|
-| 15:00 - 15:15 | Intro + Vorstellungsrunde |
-| 15:15 - 15:25 | Versionsverwaltung mit Git |
-| 15:25 - 15:35 | GitHub |
-| 15:35 - 15:50 | Issue erstellen |
-| 15:50 - 16:10 | Pull Request durchführen |
-| 16:10 - 16:30 | Repo erstellen |
-| 16:50 - 17:00 | Feedback-Runde |
+| Zeit     | Block | Inhalt |
+|---------------|--------------|------------|
+| 15:00 - 15:15 | Intro | Vorstellen, Übersicht, Vorstellungsrunde. |
+| 15:15 - 15:25 | Versionsverwaltung mit Git | Einführung in die Versionsverwaltungs-Software Git. |
+| 15:25 - 15:35 | GitHub | Einführung auf GitHub. Anlegen eines eigenen Accounts. |
+| 15:35 - 15:50 | Issue erstellen | Bei einem fremden Projekt einen Verbesserungsvorschlag mittels einem Issue tätigen. |
+| 15:50 - 16:10 | Pull Request durchführen | Bei einem fremden Projekt etwas Verbessern und die Änderung zur Übernahme vorschlagen. |
+| 16:10 - 16:30 | Repo erstellen | Ein eigenes GitHub Projekt anlegen. |
+| 16:50 - 17:00 | Feedback-Runde | Kurzes Feedback zum Workshop. |
 | 17:00 | Ende |
 
 ### Intro

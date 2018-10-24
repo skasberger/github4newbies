@@ -12,6 +12,11 @@ Im Rahmen der Wissens- und Technologietransferzentrum Ost (WTZ Ost) organisiert 
 
 Der Inhalt hier steht, soweit nicht explizit anders erwähnt, unter der [Creative Commons Namensnennung 4.0 Lizenz](https://creativecommons.org/licenses/by/4.0/).
 
+## VORBEREITEN
+
+* Auf GitHub registrieren
+* Laptop mit Netzteil mitnehmen!
+
 ## WORKSHOP
 
 | Zeit     | Inhalt       |
@@ -20,7 +25,7 @@ Der Inhalt hier steht, soweit nicht explizit anders erwähnt, unter der [Creativ
 | 15:15 - 15:25 | Versionsverwaltung mit Git |
 | 15:25 - 15:35 | GitHub |
 | 15:35 - 15:50 | Issue erstellen |
-| 15:50 - 16:10 | Pull Request erstellen |
+| 15:50 - 16:10 | Pull Request durchführen |
 | 16:10 - 16:30 | Repo erstellen |
 | 16:50 - 17:00 | Feedback-Runde |
 | 17:00 | Ende |
@@ -39,6 +44,8 @@ Der Inhalt hier steht, soweit nicht explizit anders erwähnt, unter der [Creativ
 
 ### GitHub Account erstellen
 
+[GitHub Account registrieren](https://github.com/join)
+
 Alternativen: 
 
 * [Gitlab](https://about.gitlab.com/)
@@ -46,7 +53,8 @@ Alternativen:
 
 ### Issue erstellen
 
-* [GitHub Flavoured Markdown]()
+* [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+  * [Markdown @ GitHub](https://daringfireball.net/projects/markdown/)
 
 ### Pull Request machen
 
@@ -54,14 +62,45 @@ Alternativen:
 
 ### Feedback-Runde
 
-### Follow Up
+### Verabschiedung
 
+## GLOSSAR
+
+**Repository**
+
+Eine Kollektion an Dateien und Ordnern und der History jener. Enthält alle Commits.
+
+**Fork**
+
+Eine eigene Abspaltung eines Repositories, um parallel dazu zu arbeiten. 
+
+**Commit**
+
+Eine Revision zu einem Repository. Sowas wie eine versionierte "Speichern" Funktion
+
+**Branch**
+
+Default ist Master
+
+**Pull Request**
+
+Eine Anfrage, einen aktualisierten Branch mit den Master Branch zu vereinen.
 
 ## RESOURCEN
 
-* [Eventbrite Event](https://www.eventbrite.de/e/github-workshop-fur-newbies-tickets-47662837831)
 * [How to make your code citable using GitHub and Zenodo](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_2.md)
-
-
+* [Try Git](http://try.github.com)
+* [Git-It](https://github.com/jlord/git-it)
+* [Git and GitHub foundations](https://www.youtube.com/watch?v=yyLiplDQtf0&list=UUP7RrmoueENv9TZts3HXXtw)
+* [GitHub guides videos](https://www.youtube.com/user/GitHubGuides)
+* https://guides.github.com/
+* https://guides.github.com/activities/hello-world/
+* https://guides.github.com/activities/contributing-to-open-source/
+* https://guides.github.com/activities/citable-code/
+* [GitHub Pages](http://pages.github.com)
+* [GitHub Pages default themes](https://github.com/blog/1081-instantly-beautiful-project-pages)
+* [GH Publisher](https://github.com/ewanmellor/gh-publisher)
+* [Working with large files](https://help.github.com/articles/working-with-large-files/)
+* [GitHub Help](https://help.github.com/)
 
 

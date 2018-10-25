@@ -8,7 +8,7 @@ Im Rahmen der Wissens- und Technologietransferzentrum Ost (WTZ Ost) organisiert 
 - Trainer: [Stefan Kasberger](http://stefankasberger.at/)
 - Veranstalter: [Open Access Network Austria (OANA)](https://www.oana.at/)
 
-**[Folien](slides.odp)**
+**[Folien](slides.pdf)**
 
 Der Inhalt hier steht, soweit nicht explizit anders erwähnt, unter der [Creative Commons Namensnennung 4.0 Lizenz](https://creativecommons.org/licenses/by/4.0/).
 
@@ -20,14 +20,16 @@ Der Inhalt hier steht, soweit nicht explizit anders erwähnt, unter der [Creativ
 
 ## WORKSHOP
 
+**Timetable**
+
 | Zeit     | Block | Inhalt |
 |---------------|--------------|------------|
-| 15:00 - 15:15 | Intro | Vorstellen, Übersicht, Vorstellungsrunde. |
-| 15:15 - 15:25 | Versionsverwaltung mit Git | Einführung in die Versionsverwaltungs-Software Git. |
-| 15:25 - 15:35 | GitHub | Einführung auf GitHub. Anlegen eines eigenen Accounts. |
-| 15:35 - 15:50 | Issue erstellen | Bei einem fremden Projekt einen Verbesserungsvorschlag mittels einem Issue tätigen. |
-| 15:50 - 16:10 | Pull Request durchführen | Bei einem fremden Projekt etwas Verbessern und die Änderung zur Übernahme vorschlagen. |
-| 16:10 - 16:30 | Repo erstellen | Ein eigenes GitHub Projekt anlegen. |
+| 15:00 - 15:25 | Intro | Vorstellen und Übersicht. Anlegen eines eigenen Accounts. Vorstellungsrunde. |
+| 15:25 - 15:40 | Versionsverwaltung mit Git | Einführung in die Versionsverwaltungs-Software Git. |
+| 15:40 - 15:50 | GitHub | Einführung auf GitHub.  |
+| 15:50 - 16:05 | Issue erstellen | Bei einem fremden Projekt einen Verbesserungsvorschlag mittels einem Issue tätigen. |
+| 16:05 - 16:25 | Pull Request durchführen | Bei einem fremden Projekt etwas Verbessern und die Änderung zur Übernahme vorschlagen. |
+| 16:25 - 16:50 | Repo erstellen | Ein eigenes GitHub Projekt anlegen. |
 | 16:50 - 17:00 | Feedback-Runde | Kurzes Feedback zum Workshop. |
 | 17:00 | Ende |
 
@@ -45,7 +47,15 @@ Der Inhalt hier steht, soweit nicht explizit anders erwähnt, unter der [Creativ
 
 ### GitHub Account erstellen
 
-[GitHub Account registrieren](https://github.com/join)
+* [GitHub](https://github.com)
+  * [Account registrieren](https://github.com/join)
+
+Spezielle Renderings:
+
+* [Bilder](https://help.github.com/articles/rendering-and-diffing-images/)
+* [PDF](https://help.github.com/articles/rendering-pdf-documents/)
+* [Jupyter Notebook](https://help.github.com/articles/working-with-jupyter-notebook-files-on-github/): statische HTML Seite wird dargestellt. 
+* [CSV und TSV](https://help.github.com/articles/rendering-csv-and-tsv-data/)
 
 Alternativen: 
 
@@ -54,12 +64,20 @@ Alternativen:
 
 ### Issue erstellen
 
-* [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
-  * [Markdown @ GitHub](https://daringfireball.net/projects/markdown/)
+* [Issue zu Repo erstellen](https://github.com/skasberger/github4newbies/issues/new)
+
+**Resourcen**
+
+* [Markdown @ GitHub](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+  * [Markdown](https://daringfireball.net/projects/markdown/)
 
 ### Pull Request machen
 
 ### Repository erstellen
+
+* [Contributor Covenant](https://www.contributor-covenant.org/)
+* [DOI hinzufügen](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_2.md)
+
 
 ### Feedback-Runde
 
@@ -103,5 +121,6 @@ Eine Anfrage, einen aktualisierten Branch mit den Master Branch zu vereinen.
 * [GH Publisher](https://github.com/ewanmellor/gh-publisher)
 * [Working with large files](https://help.github.com/articles/working-with-large-files/)
 * [GitHub Help](https://help.github.com/)
+* [How to set up a repository on GitHub](https://github.com/OpenScienceMOOC/Module-5-Open-Research-Software-and-Open-Source/blob/master/content_development/Task_1.md#setting-up-a-github-profile-)
 
 

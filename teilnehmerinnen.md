@@ -2,6 +2,6 @@
 
 ## TeilnehmerInnen
 
-Jennifer Hemmerich, Pharmacoinformatik
+* Jennifer Hemmerich, Pharmacoinformatik
 
 

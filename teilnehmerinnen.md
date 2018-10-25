@@ -2,6 +2,7 @@
 
 ## TeilnehmerInnen
 
+* Lisa; Paul; Max
 
 
 

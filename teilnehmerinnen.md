@@ -13,3 +13,4 @@
 * Jennifer Hemmerich, Pharmacoinformatik
 * Martina Simon, OREA
 * Bernhard Schubert, Open Access Office der Universität Wien
+* Irene P

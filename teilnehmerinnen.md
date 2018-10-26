@@ -5,5 +5,6 @@
 * Barbara Piringer, ACDH-ÖAW
 * Constanza Cordoni UU
 * Lukas Theussl (Physik)
+* Matthias Samonig, TU Wien Bibliothek
 
 

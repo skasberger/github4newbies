@@ -1,12 +1,6 @@
-
-
 ## TeilnehmerInnen
 
 * Stefan Kasberger, OANA
-
-
-
-
-
+* :)
 
 

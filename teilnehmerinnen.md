@@ -9,5 +9,6 @@
 * Lisa; Paul; Max
 * Aleksandar Devic, Uni Wien
 * Veronika Schöpf, Uni Graz
+* Malgorzata Goraczek, TU Wien 
 
 

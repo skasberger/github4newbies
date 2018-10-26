@@ -10,5 +10,6 @@
 * Aleksandar Devic, Uni Wien
 * Veronika Schöpf, Uni Graz
 * Malgorzata Goraczek, TU Wien 
+* Jennifer Hemmerich, Pharmacoinformatik
 
 

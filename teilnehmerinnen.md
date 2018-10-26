@@ -1,7 +1,7 @@
-
-
 ## TeilnehmerInnen
 
-Barbara Piringer, ACDH-ÖAW
+* Stefan Kasberger, OANA
+* :)
+* Barbara Piringer, ACDH-ÖAW
 
 

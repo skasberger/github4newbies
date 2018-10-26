@@ -1,7 +1,8 @@
-
-
 ## TeilnehmerInnen
 
-Constanza Cordoni UU
+* Stefan Kasberger, OANA
+* :)
+* Barbara Piringer, ACDH-ÖAW
+* Constanza Cordoni UU
 
 

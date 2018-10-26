@@ -1,4 +1,4 @@
-Workshops - GitHub 4 Newbies und KatzenliebhaberInnen
+Workshop - GitHub 4 Newbies und KatzenliebhaberInnen
 ==============================
 
 Im Rahmen der Wissens- und Technologietransferzentrum Ost (WTZ Ost) organisiert die OANA — Open Science Network Austria einen Workshop zum Thema: GitHub Workshop für Newbies — mit Fokus auf die Nutzung in der Wissenschaft. Dieses Repository enthält alle Informationen und Materialen zum Workshop "GitHub 4 Newbies".
